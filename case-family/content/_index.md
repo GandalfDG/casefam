@@ -5,3 +5,5 @@ title: 'Meet the Case Family'
 ---
 
 # Hi!
+
+We just moved in at *40 Hill Street* and we're excited to meet our neighbors!
