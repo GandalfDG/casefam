@@ -4,7 +4,7 @@ draft: false
 title: 'Meet the Case Family'
 ---
 
-![Header Photo of Kiersten and Jack Case]
+{{< headerphoto src=images/k_j_header.jpg size=600x >}}
 
 # Hi! It's nice to meet you!
 
