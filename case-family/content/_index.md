@@ -4,40 +4,79 @@ draft: false
 title: 'The Case Family'
 ---
 
-{{< headerphoto src=images/k_j_header.jpg size=600x class="hero is-2by3" >}}
+<section class="hero is-success is-halfheight">
+    <div class="hero-body">
+        <div class="columns">
+            <div class="column">
+                <p class="title">Hi! It's nice to meet you!</p>
+            </div>
+            <div class="column">
+                {{< headerphoto src=images/k_j_header.jpg size=500x class="hero is-2by3" >}}
+            </div>
+        </div>
+    </div>
 
-## Hi! It's nice to meet you!
+</section>
+
+<section class="section">
 
 We just moved in at *40 Hill Street* and we're excited to meet our neighbors!
-
 We're Jack and Kiersten Case, and we just moved from our apartment in Newton to
 our very own house. We're busy unpacking, but we wanted to introduce ourselves.
 Besides us two, we have three very spoiled pet rabbits named Chester, Phoebe,
 and Anton. Chester and Phoebe are bonded and love one another very much, but
 Anton prefers the bachelor life.
 
+</section>
+
 {{< headerphoto src=images/bunnies.jpg size=600x >}}
 
-### Jack
-I'm a full-time software engineer at *Pratt and Whitney* located just a few
+
+<section class="section">
+
+<div class="columns">
+<div class="column">
+<p class="subtitle is-2">Jack</p>
+<p>
+I'm a full-time software engineer at <em>Pratt and Whitney</em> located just a few
 minutes from here. Outside of work I enjoy photography, pinball, board games,
 biking and rollerblading. You can learn more about me by following me on
-[Mastodon](https://indieweb.social/@GandalfDG) (It's like Twitter used to be),
-[Pixelfed](https://pixtagram.social/gandalfdg) (ditto for Instagram), and on my
+<a href="https://indieweb.social/@GandalfDG">Mastodon</a> (It's like Twitter used to be),
+<a href="https://pixtagram.social/gandalfdg">Pixelfed</a> (ditto for Instagram), and on my
 own website which is part resume, part personal blog:
-[jack-case.pro](https://jack-case.pro).
+<a href="https://jack-case.pro">jack-case.pro</a>.
+</p>
+</div>
+<div class="column">
+{{< headerphoto src=images/bunnies.jpg size=600x >}}
+</div>
+</div>
 
-### Kiersten
+<div class="columns">
+<div class="column">
+<p class="subtitle is-2">Kiersten</p>
 I'm an elementary music teacher, and I'm developing a TV show for kids called
-*Lilypad Library*. I also write music and perform at the Early Risers storytime
-at *The Blue Bunny* in Dedham. Outside of my work I like to ski, crochet, play
+<em>Lilypad Library</em>. I also write music and perform at the Early Risers storytime
+at <em>The Blue Bunny</em> in Dedham. Outside of my work I like to ski, crochet, play
 cozy video games, and more. Follow me on [Instagram](TODO), and visit my website
-to check out my music and TV work: [mskiersten.com](https://mskiersten.com)
+to check out my music and TV work: <a href="https://mskiersten.com">mskiersten.com</a>
+</div>
+<div class="column">
+{{< headerphoto src=images/bunnies.jpg size=600x >}}
+</div>
+</div>
+
+</section>
 
 ---------
+
+<section class="section">
+
 
 ## Contact Us
 
 While you're welcome to come over and ring the doorbell, if you'd rather introduce
 yourself online you can send us e-mail at [jackacase@gmail.com](mailto:jackacase@gmail.com?subject=New%20Neighbors)
 and [kierstenhecht@gmail.com](mailto:kierstenhecht@gmail.com?subject=New%20Neighbors) respectively. 
+
+</section>
