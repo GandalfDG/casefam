@@ -1,3 +1,4 @@
 {{ $image := resources.Get (.Get "src") }}
-{{ $resized := $image.Resize (.Get "size")}}
-<img src="{{ $resized.RelPermalink }}">
+{{ $resized := $image.Resize (.Get "size") }}
+{{ $class := (.Get "class") }}
+<img src="{{ $resized.RelPermalink }}" class="{{ $class }}">
