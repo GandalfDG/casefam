@@ -4,7 +4,7 @@ draft: false
 title: 'The Case Family'
 ---
 
-{{< headerphoto src=images/k_j_header.jpg size=600x class=hero >}}
+{{< headerphoto src=images/k_j_header.jpg size=600x class="hero is-2by3" >}}
 
 ## Hi! It's nice to meet you!
 
