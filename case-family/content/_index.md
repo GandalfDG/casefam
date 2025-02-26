@@ -14,8 +14,15 @@ We're Jack and Kiersten Case, and we just moved from our apartment in Newton to
 our very own house. We're busy unpacking, but we wanted to introduce ourselves.
 
 ## Jack
-I'm a full-time software engineer at *Pratt and Whitney* located just a few minutes
-from here. Outside of work I enjoy photography, pinball, board games, biking and
-rollerblading. You can learn more about me by following me on [Mastodon](https://indieweb.social/@GandalfDG) (It's like Twitter used to be), [Pixelfed](https://pixtagram.social/gandalfdg) (ditto for Instagram), and on my own website which is part resume, part personal
-blog: [jack-case.pro](https://jack-case.pro).
+I'm a full-time software engineer at *Pratt and Whitney* located just a few
+minutes from here. Outside of work I enjoy photography, pinball, board games,
+biking and rollerblading. You can learn more about me by following me on
+[Mastodon](https://indieweb.social/@GandalfDG) (It's like Twitter used to be),
+[Pixelfed](https://pixtagram.social/gandalfdg) (ditto for Instagram), and on my
+own website which is part resume, part personal blog:
+[jack-case.pro](https://jack-case.pro).
 
+## Kiersten
+I'm an elementary music teacher, and I'm developing a TV show for kids called
+*Lilypad Library*. I also write music and perform at the Early Risers storytime
+at *The Blue Bunny* in Dedham. 
